@@ -49,14 +49,42 @@ public class Maze {
 
     }
 
+    public static void AllWays(String p, int[][] ar, int r, int c) {
+        if (r == ar.length - 1 && c == ar[0].length - 1) {
+            // ArrayList<String> list = new ArrayList<>();
+            System.out.println(p);
+            return;
+        }
+        if (ar[r][c] == 1) {
+            return;
+        }
+        ar[r][c] = 1;
+        // ArrayList<String> list = new ArrayList<>();
+        if (r < ar.length - 1) {
+            AllWays(p + "D", ar, r + 1, c);
+        }
+        if (c < ar[0].length - 1) {
+            AllWays(p + "R", ar, r, c + 1);
+        }
+        if (r > 0) {
+            AllWays(p + "U", ar, r - 1, c);
+        }
+        if (c > 0) {
+            AllWays(p + "L", ar, r, c - 1);
+        }
+
+        ar[r][c] = 0;
+    }
+
     public static void main(String[] args) {
         System.out.println(ways(3, 3));
         System.out.println(waysPrint("", 3, 3));
         int[][] ar = {
                 { 0, 0, 0 },
-                { 0, 1, 0 },
+                { 0, 0, 0 },
                 { 0, 0, 0 },
         };
-        waysWithObs("", ar, 0, 0);
+        // waysWithObs("", ar, 0, 0);
+        AllWays("", ar, 0, 0);
     }
 }
