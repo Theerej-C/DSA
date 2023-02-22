@@ -10,6 +10,8 @@ public class CombinationSumWithRepetition {
         Set<List<Integer>> list = new HashSet<>();
         if (tot == 0) {
             Collections.sort(bs);
+
+
             list.add(bs);
             return list;
         }
@@ -27,7 +29,7 @@ public class CombinationSumWithRepetition {
     }
 
     public static void main(String[] args) {
-        int[] ar = { 2, 3, 5 };
+        int[] ar = {2, 3, 5};
         List<Integer> b = new ArrayList<>();
         List<List<Integer>> list = new ArrayList<>(comb(ar, 8, b));
 
