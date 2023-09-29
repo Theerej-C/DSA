@@ -8,5 +8,6 @@ public class Fibonacci {
 
     public static void main(String[] args) {
         System.out.println(fibo(8));
+        System.out.println();
     }
 }
