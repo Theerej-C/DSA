@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7edd0e78-4191-473a-bb42-0eb4ab63b2f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Graphs/CycleFindUsingBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graphs/CycleFindUsingDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OptimalPartitionofString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.tmp.driveupload/3661" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.tmp.driveupload/3703" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Arraylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LinearSearchUsingRecurssion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinearSearchUsingRecurssion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Notes/DSA NOTES/.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Notes/DSA NOTES/.obsidian/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Notes/DSA NOTES/.obsidian/appearance.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Notes/DSA NOTES/.obsidian/appearance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Notes/DSA NOTES/.obsidian/core-plugins-migration.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Notes/DSA NOTES/.obsidian/core-plugins-migration.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Notes/DSA NOTES/.obsidian/core-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Notes/DSA NOTES/.obsidian/core-plugins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Notes/DSA NOTES/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Notes/DSA NOTES/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Notes/DSA NOTES/Kadanes Algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Notes/DSA NOTES/Kadanes Algorithm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/leetcode/SorttheMatrixDiagonally.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/leetcode/SorttheMatrixDiagonally.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/.tmp.driveupload/3449" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/Arrangethearray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/ArrayListRun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/Arraylist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/BFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/BinarySearchUsingRecrussion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/CombinationSumWithRepetition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/CombinationSumWithoutRepetition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/ConcatiinationOfArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/ContainsDuplicateIII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/CountSubarraysWithFixedBounds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/CountTotalNumberofColoredCells.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/CountWaystoGroupOverlappingRanges.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/CounttheNumberofVowelStringsinRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/DFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/DSA/BinaryTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/DSA/BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/DSA/ChangingBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/DSA/bubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/DcDecember.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/DcDecemberOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/Dice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/DisjointSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/DistinctMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/DoublyLikedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/DoublyLikedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/DtDecember.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/DynamicArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/EqualElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/FindandReplacePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/FloodFillAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/GraphRepInList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/GraphRepInMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/JumpGameIV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/JustOneMoreEpisode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/KokoEatingBananas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/KthLargestSuminaBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/LetterTilePossibilities.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/LinearSearchUsingRecurssion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/MatrixPain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/MaxAreaOfIsland$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/MaxAreaOfIsland.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/Maze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/MazeWithPath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/MergeSortUsingRecurssion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/MinHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/MinimumTimetoCompleteTrips.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/MinimumWindowSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/NQueens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/Notes/DSA NOTES/.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/DSA/Notes/DSA NOTES/.obsidian/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/Notes/DSA NOTES/.obsidian/appearance.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/DSA/Notes/DSA NOTES/.obsidian/appearance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/Notes/DSA NOTES/.obsidian/core-plugins-migration.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/DSA/Notes/DSA NOTES/.obsidian/core-plugins-migration.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/Notes/DSA NOTES/.obsidian/core-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/DSA/Notes/DSA NOTES/.obsidian/core-plugins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/Notes/DSA NOTES/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/DSA/Notes/DSA NOTES/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/Notes/DSA NOTES/Kadanes Algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/DSA/Notes/DSA NOTES/Kadanes Algorithm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/NumberOfIslands$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/NumberOfIslands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/NumberOfProvinces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/NumberPad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/PeakIndexinaMountainArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/Permutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/PermutationArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/ProgramZoho.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/RearrangeArraytoMaximizePrefixScore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/Recurssion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/RemovingOneChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/RottenOranges$Orange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/RottenOranges.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/RunningComparison.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/SingleuseAttack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/SinglyLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/SinglyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/SlidingWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/SorttheMatrixDiagonally.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/SortthePeople.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/SplitWithMinimumSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/StringTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/SubSeq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/SubSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/Subsets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/SumofAllSubsetXORTotals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/SurroundedRegion$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/SurroundedRegion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/TopologicalSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/TwoDBinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/matrixOddCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/twoDArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/weekly335/PassthePillow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/DSA/weekly335/SplittheArraytoMakeCoprimeProducts.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2Rg7aYEy5ovmNbsVfohyu8z5x1Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7edd0e78-4191-473a-bb42-0eb4ab63b2f5" name="Changes" comment="" />
+      <created>1687659936496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687659936496</updated>
+      <workItem from="1687659938534" duration="37000" />
+      <workItem from="1687660033138" duration="723000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
